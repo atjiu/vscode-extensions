@@ -1,11 +1,23 @@
 {
     "name": "insert-custome-content",
-    "displayName": "insert_custome_content",
+    "displayName": "insert-custome-content",
     "description": "在光标位置插入自定义的内容（内容根据正则匹配和模板替换生成）",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "tomoya92",
     "engines": {
         "vscode": "^1.52.0"
+    },
+    "author": {
+        "name": "tomoya92",
+        "email": "py2qiuse@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tomoya92/vscode-extensions.git"
+    },
+    "homepage": "https://github.com/tomoya92/vscode-extensions/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/tomoya92/vscode-extensions/issues"
     },
     "categories": [
         "Other"
