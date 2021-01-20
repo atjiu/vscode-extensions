@@ -2,7 +2,7 @@
 
 Format the currently edited file name through regular format, and then replace the template in the configuration with each matched item
 
-![](https://raw.githubusercontent.com/tomoya92/vscode-extensions/insert-custome-content/blob/master/preview.gif)
+![preview](https://raw.githubusercontent.com/tomoya92/vscode-extensions/master/insert-custome-content/preview.gif)
 
 举例：
 
